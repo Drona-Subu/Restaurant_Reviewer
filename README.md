@@ -29,19 +29,22 @@
 ## Getting Started
 
 1. Clone this repository:
+   git clone https://github.com/Drona-Subu/Restaurant_Reviewer.git
 
+3. Install dependencies:
+   npm install
 
-2. Install dependencies:
-
-
-
-3. Set up your PostgreSQL database:
+4. Set up your PostgreSQL database:
 - Create a database named `restaurant_reviews`.
 - Update the database connection details in the server configuration.
+  
 
 4. Run the server:
+   node server.js
 
 
-5. Run the client (React app):
+6. Run the client (React app):
+   cd my-app
+   npm start
 
 
