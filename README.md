@@ -19,8 +19,7 @@
 
 - **Front-End**:
   - React: Entire front-end design of this app is built using React.js.
-  - Bootstrap: Used for UI styling.
-  - Material-UI: Icons are incorporated using Material-UI.
+  - Bootstrap & CSS : Used for UI styling.
 
 - **Back-End**:
   - Node.js & Express.js: Backend server implementation.
